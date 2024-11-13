@@ -29,7 +29,8 @@ Register no  : 212222110027
 ```
 ``` Python
 # Get the input String
-string ="RIYA P L"
+# Get the input String
+string ="NARESH "
 
 # Create tree nodes
 class NodeTree(object):
