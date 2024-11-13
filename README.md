@@ -29,7 +29,6 @@ Register no  : 212222110027
 ```
 ``` Python
 # Get the input String
-# Get the input String
 string ="NARESH "
 
 # Create tree nodes
@@ -80,7 +79,8 @@ for (char, frequency) in freq:
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![Screenshot 2024-10-28 212815](https://github.com/user-attachments/assets/379d337a-c33f-4441-9227-6e9d7e17ca72)
+![image](https://github.com/user-attachments/assets/185d7bd3-db72-47ae-8b52-e16c3f499e8b)
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
